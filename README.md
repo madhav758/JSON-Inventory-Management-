@@ -4,3 +4,4 @@ In this project we are building the bill for the purchase of item present in the
 The record.json file is automatically updated to the correct number of quantity left 
 The code also calculates the discount if the final price is more than a certain value
 the code with a little adition can also calculate the final amount including GST.
+A sales.txt file is created only when the customer buys a product, containing customer details
